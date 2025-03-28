@@ -7,7 +7,7 @@
 'OpenBook'은 사용자들이 행사와 부스 정보를 쉽게 접근하고, 원하는 정보를 효율적으로 얻을 수 있도록 설계되었습니다.**
 
 ## 🙍♂️Contributor
-|<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/58856846?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/59019137?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/126096318?v=4" />|
+|<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/58856846?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/59019137?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|
 |:----:|:----:|:----:|:----:|:----:|
 | (팀장)[김유신](https://github.com/Sunho-97) | [임태형](https://github.com/Nail0606) | [이재원](https://github.com/Goongam) | [루와신기루](https://github.com/muncool39) |
 | 돈까스장군 | 총 관리자 | 모바일프로게이머 | 모코코 |
