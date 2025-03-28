@@ -9,8 +9,8 @@
 ## 🙍♂️Contributor
 |<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/58856846?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/59019137?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/126096318?v=4" />|
 |:----:|:----:|:----:|:----:|:----:|
-| (팀장)[김선호](https://github.com/Sunho-97) | [조민기](https://github.com/Nail0606) | [이용준](https://github.com/Goongam) | [문시원](https://github.com/muncool39) | [민서연](https://github.com/gitseoyeon) |
-| Front-End | Front-End | Front-End | Back-End | Back-End |
+| (팀장)[김유신](https://github.com/Sunho-97) | [임태형](https://github.com/Nail0606) | [이재원](https://github.com/Goongam) | [루와신기루](https://github.com/muncool39) |
+| 돈까스장군 | 총 관리자 | 모바일프로게이머 | 모코코 |
 
 ## ✏️ 프로젝트 소개
 ![image](https://github.com/Project-OpenBook/.github/assets/58856846/e508d4b6-a2da-4a1c-a1c4-de57ca0c101d)
