@@ -1,4 +1,4 @@
-# 프로젝트 6301
+# √프로젝트 6301
 
 ### 📙 개요
 <p align="center"><img src="https://img.insight.co.kr/static/2018/03/04/700/083u7mjjs3j713tjq8uf.jpg" width="400" height="400"/></p>
