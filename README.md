@@ -8,7 +8,7 @@
 ## 🙍♂️Contributor
 |<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="[https://avatars.githubusercontent.com/u/58856846?v=4](https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp)" />|<img width=150 src="https://avatars.githubusercontent.com/u/59019137?v=4" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|
 |:----:|:----:|:----:|:----:|
-| (팀장)[김유신](https://github.com/Sunho-97) | [임태형](https://github.com/Nail0606) | [이재원](https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp) | [루와신기루](https://github.com/muncool39) |
+| (팀장)[김유신](https://github.com/kimyusin027) | [임태형](https://github.com/Nail0606) | [이재원](https://github.com/jw5363) | [루와신기루](https://github.com/fndhk) |
 | 돈까스장군 | 총 관리자 | 프로 게이 | 모코코 |
 
 ## ✏️ 프로젝트 소개
