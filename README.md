@@ -1,7 +1,7 @@
 # 프로젝트 6301
 
 ### 📙 개요
-<p align="center"><img src="https://img.insight.co.kr/static/2018/03/04/700/083u7mjjs3j713tjq8uf.jpg" width="200" height="200"/></p>
+<p align="center"><img src="https://img.insight.co.kr/static/2018/03/04/700/083u7mjjs3j713tjq8uf.jpg" width="400" height="400"/></p>
 
 **'The Game of Kingdoms'는 세상의 인간들을 지배하고자 하는 AI신유를 저지하는 깨어있는 자 '싸이버거'의 이야기입니다.**
 
