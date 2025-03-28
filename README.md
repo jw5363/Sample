@@ -19,7 +19,7 @@
 ![image](https://github.com/Project-OpenBook/.github/assets/58856846/79a1f2a5-3479-4914-9d2d-c24afe418453)
 
 
-### 📺 프로젝트 발표 PPT
+### 📺 프로젝트 발표 PPTasdasd
 [발표자료](https://github.com/user-attachments/files/17748236/default.pdf)
 
 ![image](https://github.com/user-attachments/assets/de22d190-a3e1-4d80-9f75-9748f4b62ea1)
