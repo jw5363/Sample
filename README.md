@@ -6,7 +6,7 @@
 **'The Game of Kingdoms'는 세상의 인간들을 지배하고자 하는 AI신유를 저지하는 깨어있는 자 '싸이버거'의 이야기입니다.**
 
 ## 🙍♂️Contributor
-|<img width=150 src="https://avatars.githubusercontent.com/u/111634448?v=4" />|<img width=150 src="https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp" />|<img width=150 src="https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|
+|<img width=150 src="https://static1.personalitydatabase.net/2/pdb-images-prod/fb546a16/profile_images/269c9e6dd6a34f56848d9e377af9470e.png" />|<img width=150 src="https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp" />|<img width=150 src="https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp" />|<img width=150 src="https://avatars.githubusercontent.com/u/105481797?v=4" />|
 |:----:|:----:|:----:|:----:|
 | (팀장)[김유신](https://github.com/Sunho-97) | [임태형](https://github.com/Nail0606) | [이재원](https://i.namu.wiki/i/mVbvSl2j-zdEzqQQgq8RX1Sv7TUUlzR41DjSQfdOzgVDdMLRQyZ2VtCXE2HyX1DW0lMOuE6BeUwzaW9ETAGT2g.webp) | [루와신기루](https://github.com/muncool39) |
 | 돈까스장군 | 총 관리자 | 프로 게이 | 모코코 |
